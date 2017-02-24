@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 [My Computer]
 My Computer = "10.2.69.47"
 
 [Target]
 Target = "172.22.11.2"
 
+=======
+[My Computer]
+My Computer = "10.2.69.47"
+
+[Target]
+Target = "172.22.11.2"
+
+>>>>>>> c5dcb7087591590292f2d4fcaf0d324a8ecf2d37

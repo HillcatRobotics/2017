@@ -1,0 +1,11 @@
+To customize the dashboard...
+Rebuilding the FRC Dashboard Project
+After you customize the FRC Dashboard Project, you must rebuild the project so that the Driver Station launches the most recent version of the project.
+
+Complete the following steps to rebuild the project and specify which project the Driver Station launches automatically.
+
+In the Project Explorer window of the Dashboard Project, expand the list of Build Specifications to reveal the FRC_Dashboard application.
+Right-click FRC_Dashboard and select Properties from the shortcut menu. If the Application Builder Information dialog box appears, click OK.
+Verify that the Target filename is Dashboard.exe. The Driver Station reads this executable file as the file to launch.
+Verify that the Destination directory is where you want to save the file. Click Build to build the new project.
+Explore to where you saved the new executable file. Copy the new Dashboard.exe file to the FRC Dashboard folder within Program Files.  You may want to save a backup of the original Dashboard.exe that installed in that folder.
